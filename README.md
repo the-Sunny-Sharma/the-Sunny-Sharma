@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 # 🚀 Sunny Yogendra Sharma
 
@@ -260,4 +260,347 @@ I'm always interested in discussing:
 <div align="center">
 
 **[📧 Email Me](mailto:sunny)
-**[📧 Email Me](mailto:sunny)
+**[📧 Email Me](mailto:sunny) -->
+
+
+
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=100&lines=Hey!+I'm+Sunny+Sharma+👨🏽‍💻;Full+Stack+Developer+🚀;Blockchain+Enthusiast+⛓️;Real-time+Systems+Expert+💫;Welcome+to+my+Digital+Space+✨)](https://github.com/the-Sunny-Sharma)
+
+  <p>
+    <a href="https://linkedin.com/in/sunny-sharma1409" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://github.com/the-Sunny-Sharma" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+    <a href="mailto:sunny.sharma.syn@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+    <a href="https://sunnysharma.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio">
+    </a>
+  </p>
+
+  [![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=the-Sunny-Sharma.the-Sunny-Sharma&title=Profile%20Visitors&style=flat-square&color=0891b2)](https://github.com/the-Sunny-Sharma)
+  [![GitHub followers](https://img.shields.io/github/followers/the-Sunny-Sharma?style=social)](https://github.com/the-Sunny-Sharma)
+  [![GitHub stars](https://img.shields.io/github/stars/the-Sunny-Sharma?style=social)](https://github.com/the-Sunny-Sharma)
+
+</div>
+
+---
+
+## 🚀 Welcome to My GitHub Universe
+
+\`\`\`
+╔═══════════════════════════════════════════════════════════════╗
+║  Building the future, one line of code at a time             ║
+║  Based in Mumbai, India | Aspiring at Big Tech              ║
+║  Java • JavaScript • TypeScript • React • Next.js            ║
+║  Spring Boot • Docker • Microservices • Blockchain           ║
+╚═══════════════════════════════════════════════════════════════╝
+\`\`\`
+
+---
+
+## 📊 Real-Time GitHub Metrics
+
+<div align="center">
+
+[![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=the-Sunny-Sharma&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&bg_color=0D1117&text_color=58A6FF&title_color=1f6feb&icon_color=79c0ff)](https://github.com/the-Sunny-Sharma)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=the-Sunny-Sharma&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1f6feb&fire=ff6b6b&currStreakLabel=1f6feb)](https://github.com/the-Sunny-Sharma)
+
+</div>
+
+<div align="center">
+
+[![GitHub Contributions Graph](https://github-readme-activity-graph.vercel.app/graph?username=the-Sunny-Sharma&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1f6feb&point=ff6b6b)](https://github.com/the-Sunny-Sharma)
+
+</div>
+
+---
+
+## 💫 Most Used Languages
+
+<div align="center">
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=the-Sunny-Sharma&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117&text_color=58A6FF&title_color=1f6feb)](https://github.com/the-Sunny-Sharma)
+
+</div>
+
+---
+
+## 🎯 Professional Arsenal
+
+### Languages & Core Tech
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### Frontend Arsenal
+![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### Backend & Frameworks
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+### Databases & Data
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+
+### Specialized & Advanced
+![Microservices](https://img.shields.io/badge/Microservices-00A0A0?style=for-the-badge&logo=amazon-ecs&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF6B6B?style=for-the-badge&logo=openapi-initiative&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-0175C0?style=for-the-badge&logo=socket.io&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+
+---
+
+## 🏆 Featured Projects - Code Mode
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🎓 Codenest</h3>
+      <p><strong>Real-time Collaborative Learning Platform</strong></p>
+      <ul>
+        <li>Live streaming with HLS.js + Mux</li>
+        <li>Monaco Editor for interactive coding</li>
+        <li>Gamified student-teacher interaction</li>
+        <li>Sub-100ms sync latency on Render</li>
+      </ul>
+      <p><code>Next.js • Node.js • Socket.IO • MongoDB</code></p>
+      <a href="https://github.com/the-Sunny-Sharma/codenest">
+        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github">
+      </a>
+    </td>
+    <td width="50%">
+      <h3>⛓️ Hushmail</h3>
+      <p><strong>Decentralized Anonymous Fundraising</strong></p>
+      <ul>
+        <li>Smart contracts on Sepolia blockchain</li>
+        <li>MetaMask wallet integration</li>
+        <li>Real-time fund tracking</li>
+        <li>Scalable revenue model with fees</li>
+      </ul>
+      <p><code>Next.js • Solidity • Ethereum • Ethers.js</code></p>
+      <a href="https://github.com/the-Sunny-Sharma/hushmail">
+        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🗣️ Polyglot Voice</h3>
+      <p><strong>Multilingual Translation Platform</strong></p>
+      <ul>
+        <li>22+ language detection & translation</li>
+        <li>Naive Bayes ML model (95%+ accuracy)</li>
+        <li>Text-to-speech synthesis</li>
+        <li>Real-time language classification</li>
+      </ul>
+      <p><code>React.js • Python • Flask • Firebase</code></p>
+      <a href="https://github.com/the-Sunny-Sharma/polyglot-voice">
+        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github">
+      </a>
+    </td>
+    <td width="50%">
+      <h3>💻 CodeNexus</h3>
+      <p><strong>Real-time Dev Collaboration Suite</strong></p>
+      <ul>
+        <li>Peer-to-peer audio/text chat</li>
+        <li>WebRTC for seamless communication</li>
+        <li>Session persistence with MongoDB</li>
+        <li>Responsive shadcn UI design</li>
+      </ul>
+      <p><code>Next.js • Node.js • WebRTC • Socket.IO</code></p>
+      <a href="https://github.com/the-Sunny-Sharma/codenexus">
+        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github">
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎮 Game Mode - Achievements Unlocked
+
+| Badge | Achievement | Details |
+|-------|-------------|---------|
+| 🎓 | **Scholar** | Graduated with 8.19 CGPA from Universal College of Engineering |
+| 🏆 | **Finalist** | InnovateYou Teachathon 2023 - National Level Hackathon |
+| 🚀 | **Full-Stack Master** | 4+ years of MERN & Spring Boot expertise |
+| ⛓️ | **Blockchain Pioneer** | Smart contract development on Ethereum & Sepolia |
+| 🎯 | **Microservices Expert** | Scaled apps to sub-100ms latency |
+| 🌐 | **Real-time Systems** | WebSocket & WebRTC implementations |
+| 📚 | **Mentor** | Full-Stack Web Development Training |
+| 🔐 | **Security Expert** | OAuth 2.0, JWT, Spring Security implementation |
+
+---
+
+## 💼 Professional Experience
+
+<table>
+  <tr>
+    <td width="20%"><strong>Company</strong></td>
+    <td width="50%"><strong>Role & Responsibilities</strong></td>
+    <td width="15%"><strong>Period</strong></td>
+    <td width="15%"><strong>Skills</strong></td>
+  </tr>
+  <tr>
+    <td>🏢 Mira Advanced Engineering</td>
+    <td>JavaScript Developer - Built full-stack web apps with React.js, Express, and Node.js. Optimized legacy code and improved performance across modules.</td>
+    <td>Dec 2023 - Jan 2024</td>
+    <td>React • Express • Node.js • MongoDB</td>
+  </tr>
+</table>
+
+---
+
+## 📚 Education
+
+<details open>
+<summary><strong>🎓 Bachelor of Engineering - Information Technology</strong></summary>
+
+- **Institution**: Universal College of Engineering, Mumbai
+- **Duration**: June 2021 – May 2025
+- **CGPA**: 8.19/10
+- **Relevance**: Strong foundation in Data Structures, OOP, DBMS, Web Development, Microservices
+
+</details>
+
+<details>
+<summary><strong>📜 Certifications & Training</strong></summary>
+
+- **Java, Spring, Spring Boot, Docker & Microservices** - Telusko (Navin Reddy)
+- **Full-Stack Web Development (MERN)** - Mentored by Kamal Sir
+- **SQL (Intermediate)** - HackerRank Certified
+- **Cybersecurity & Drone Awareness** - Computer Society of India (Certified)
+
+</details>
+
+---
+
+## 📈 Coding Stats & Activity
+
+<div align="center">
+
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=the-Sunny-Sharma&theme=tokyonight&hide_border=true&layout=compact&range=last_7_days&bg_color=0D1117&text_color=58A6FF&title_color=1f6feb)](https://wakatime.com)
+
+</div>
+
+---
+
+## 🎨 Creative Showcase
+
+\`\`\`
+┌─────────────────────────────────────────────────────────────┐
+│                    Development Journey                      │
+├─────────────────────────────────────────────────────────────┤
+│ ✅ 10+ Production Projects                                  │
+│ ✅ 1000+ GitHub Stars (Combined Projects)                  │
+│ ✅ 500+ Active Contributions This Year                     │
+│ ✅ 15+ Open Source Contributions                           │
+│ ✅ 50+ GitHub Followers                                    │
+│ ✅ Expert in 15+ Technologies                              │
+│ ✅ Blockchain & Smart Contracts                            │
+│ ✅ Real-time Systems Architecture                          │
+└─────────────────────────────────────────────────────────────┘
+\`\`\`
+
+---
+
+## 🌟 Spotify Now Playing
+
+<div align="center">
+
+[![Spotify](https://spotify-now-playing.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-profile)
+
+</div>
+
+---
+
+## 🔗 Let's Connect & Collaborate
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sunny-sharma1409)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/the-Sunny-Sharma)
+[![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sunny.sharma.syn@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://sunnysharma.vercel.app)
+
+**Always open to exciting opportunities, collaborations, and connecting with fellow developers!**
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 2025 Goals
+
+\`\`\`
+[ ] Secure Full-Time Role at Big Tech Company (FAANG)
+[ ] Build 2 More Production-Ready Products  
+[ ] Contribute to Major Open-Source Projects
+[ ] Reach 1000+ GitHub Followers
+[ ] Master Advanced Kubernetes & Cloud Architecture
+[ ] Write Technical Blog Series on Microservices
+\`\`\`
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌈 Remember: Every expert was once a beginner.
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=16&duration=4000&pause=1000&color=00D9FF&center=true&width=600&height=50&lines=Thanks+for+visiting!+Let's+build+something+amazing+together.;⭐+Star+this+repo+if+you+found+it+helpful!;Happy+Coding!+🚀" alt="Sign-off">
+
+[![Made with Love in India](https://img.shields.io/badge/Made_with_❤️_in-India-orange?style=flat-square)](https://github.com/the-Sunny-Sharma)
+
+</div>
+
+---
+
+<details>
+<summary>✨ Click here for a fun surprise! (Easter Egg)</summary>
+
+\`\`\`
+ _____     _     _     _
+|   __|___| |   | |___| |_
+|__   |  _| |   | |  _|  _|
+|_____|_| |_|___|_|_| |_|
+
+          SUNNY SHARMA
+      Full-Stack Developer
+     Blockchain Enthusiast
+    Real-Time Systems Expert
+       Big Tech Ready! 🚀
+      
+      Profile Views: ∞
+      Star Rating: ⭐⭐⭐⭐⭐
+      Job Offers: 📈
+\`\`\`
+
+</details>

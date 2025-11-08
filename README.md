@@ -533,7 +533,7 @@ I'm always interested in discussing:
 
 <div align="center">
 
-[![Spotify](https://spotify-now-playing.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-profile)
+[![Spotify](https://spotify-now-playing.vercel.app/api/spotify)](https://open.spotify.com/user/6tv71miu9babmjmkbf2dfd7bg?si=BOKqOi5uSl-R_W5pGW6Amw)
 
 </div>
 

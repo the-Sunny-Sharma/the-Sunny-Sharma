@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://sunnysharma.vercel.app"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-sunnysharma.vercel.app-00F5FF?style=for-the-badge&labelColor=060A12&color=060A12"/></a>
+<a href="https://https://the-sunny-sharma.vercel.app"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-https://the-sunny-sharma.vercel.app-00F5FF?style=for-the-badge&labelColor=060A12&color=060A12"/></a>
 &nbsp;
 <a href="https://linkedin.com/in/sunny-sharma1409"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=060A12"/></a>
 &nbsp;
@@ -338,7 +338,7 @@ Contact:     sunny.sharma.syn@gmail.com
 
 [![Email Me](https://img.shields.io/badge/📧_Email_Me-sunny.sharma.syn%40gmail.com-00F5FF?style=for-the-badge&labelColor=060A12)](mailto:sunny.sharma.syn@gmail.com)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-sunnysharma.vercel.app-FFB800?style=for-the-badge&labelColor=060A12)](https://sunnysharma.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-https://the-sunny-sharma.vercel.app-FFB800?style=for-the-badge&labelColor=060A12)](https://https://the-sunny-sharma.vercel.app)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&labelColor=060A12)](https://linkedin.com/in/sunny-sharma1409)
 

@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://the-sunny-sharma.vercel.app"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-https://the-sunny-sharma.vercel.app-00F5FF?style=for-the-badge&labelColor=060A12&color=060A12"/></a>
+<a href="https://the-sunny-sharma.vercel.app"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-https://sunnysharma.vercel.app-00F5FF?style=for-the-badge&labelColor=060A12&color=060A12"/></a>
 &nbsp;
 <a href="https://linkedin.com/in/sunny-sharma1409"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=060A12"/></a>
 &nbsp;
